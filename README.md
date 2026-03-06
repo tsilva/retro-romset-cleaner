@@ -1,3 +1,9 @@
+> [!WARNING]
+> ## Archived
+> This project is archived and no longer maintained.
+>
+> Its functionality has been merged into [retrokit](https://github.com/tsilva/retrokit), a comprehensive retro gaming toolkit.
+
 <div align="center">
   <img src="logo.png" alt="retro-romset-cleaner" width="512"/>
 
